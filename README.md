@@ -1,12 +1,12 @@
 # leetcode-
 
-###二叉树最小深度
+### 二叉树最小深度
 
-####思路
+#### 思路
 就左右两边找然后递归。
 **开始没有考虑到无根情况，导致一直是段错误**
 
-####code
+#### code
 class Solution {
 public:
     int run(TreeNode *root) {
