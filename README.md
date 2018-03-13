@@ -1,5 +1,9 @@
 # leetcode-
 
+#### 参考答案
+http://www.jiuzhang.com/solution/
+
+
 ### 二叉树最小深度
 
 #### 思路
